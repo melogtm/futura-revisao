@@ -1,4 +1,5 @@
 from func.write_to_file import subjectToFile 
+import re
 import sys 
 
 helper_message = """
@@ -21,4 +22,6 @@ if (len(sys.argv) > 2):
         print(helper_message)
         exit(-1)
 
-subjectToFile(sys.argv[1])
+onlyEssentialWhiteSpaces = re.sub('\s{2,}', ' ', sys.argv[1])
+
+subjectToFile(onlyEssentialWhiteSpaces)

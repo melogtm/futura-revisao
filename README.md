@@ -7,9 +7,9 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Criar categorias 
-- [ ] Desenvolver melhor o arquivo de texto
+- [X] Desenvolver melhor o arquivo de texto
 - [ ] Permitir que o usuário escolha o destino do arquivo de texto.
-- [ ] Tratamento de erros
+- [X] Tratamento de erros
 - [ ] Elaboração de testes
 - [ ] Futuras ideias estão em processamento...
 

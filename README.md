@@ -2,6 +2,12 @@
 
 > Fornece as datas para as próximas revisões de um assunto. Utiliza intervalos de 1, 3, 7, 21, 30, 45, 60 dias.
 
+### Por que foi reescrito em Java?
+
+Antes, esse projeto foi escrito em Python, utilizando-se de funções.
+
+Desejo de treinar minhas habilidades com Programação Orientada a Objeto (POO) e Java. Daí reside a única motivação para rescrever esse projeto.
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:

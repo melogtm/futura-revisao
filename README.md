@@ -1,34 +1,30 @@
 # Revisão Futura
 
-> Dita as datas para as próximas revisões de um assunto. 
+> Fornece as datas para as próximas revisões de um assunto. Utiliza intervalos de 1, 3, 7, 21, 30, 45, 60 dias.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Criar categorias 
 - [X] Desenvolver melhor o arquivo de texto
-- [ ] Permitir que o usuário escolha o destino do arquivo de texto.
+- [X] Permitir que o usuário escolha o destino do arquivo de texto.
 - [X] Tratamento de erros
-- [ ] Elaboração de testes
-- [ ] Futuras ideias estão em processamento...
 
-## 💻 Pré-requisitos
+## 💻 Pré-requisitos e Instalação
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente do `python` ou ao menos está trabalhando com o `python3`
+- Você tem instalado em sua máquina Java 17, ou superior.
 
-## 🚀 Instalação 
-
-Para a instalação, basta certificar-se se está utilizando a versão mais recente do Python, uma vez que as dependências usadas neste projeto já vêm instaladas com a instalação básica do Python.
+E pronto! Esse é um projeto modesto, e não requer uma dependência extra além das já fornecidas pelo pacote de instalação do Java.
 
 ## ☕ Usando do projeto
 
 Siga estas etapas:
 
 ```
-python3 main.py "Assunto que eu quero revisar"
+javac ./Review.java
+
+java -jar Review 
 ```
 
-Por enquanto, recomenda-se o uso de aspas, porém isso será revisado com o tempo. 

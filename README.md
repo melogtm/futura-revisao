@@ -31,6 +31,6 @@ Siga estas etapas:
 ```
 javac ./Review.java
 
-java -jar Review 
+java Review 
 ```
 
